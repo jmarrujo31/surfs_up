@@ -9,7 +9,7 @@
 
  
  statistics below
- ![](/resource/june_temp.png)
+ ![](/esource/june_temp.png)
  
  
  statistics below
